@@ -1,4 +1,6 @@
-Hola mis datos:
+Hola mis datos son:
 Edad: 33 años
-Nombre: Grover Vargas
-email: fvargas48@
+Nombre: Grover Vargas Vasquez
+email: fvargas48@gmail.com
+direccion: VES / VR
+dni:43815496
