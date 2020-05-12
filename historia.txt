@@ -4,3 +4,5 @@ Nombre: Grover Vargas Vasquez
 email: fvargas48@gmail.com
 direccion: VES / VR
 dni:43815496
+estado: casado
+grupo:poste48
