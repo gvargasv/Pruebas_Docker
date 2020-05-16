@@ -7,3 +7,4 @@ dni:43815496
 estado: casado
 grupo:poste48
 empresa: TDP
+ingreso: 5k
