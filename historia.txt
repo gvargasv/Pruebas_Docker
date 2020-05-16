@@ -1,4 +1,4 @@
-Hola mis datos son:
+Mis datos personales:
 Edad: 33 años y poco para 34
 Nombre: Grover Vargas Vasquez
 email: fvargas48@gmail.com
