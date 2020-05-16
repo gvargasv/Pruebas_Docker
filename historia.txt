@@ -2,7 +2,7 @@ Hola mis datos son:
 Edad: 33 años
 Nombre: Grover Vargas Vasquez
 email: fvargas48@gmail.com
-direccion: VES / VR
+direccion: VES / VR / TINGO MARIA
 dni:43815496
 estado: casado
 grupo:poste48
