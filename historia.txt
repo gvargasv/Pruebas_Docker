@@ -6,3 +6,4 @@ direccion: VES / VR
 dni:43815496
 estado: casado
 grupo:poste48
+empresa: TDP
