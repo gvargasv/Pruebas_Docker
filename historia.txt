@@ -9,4 +9,4 @@ grupo:poste48
 empresa: TDP
 ingreso: 5k
 profesion: Ingeniero
-
+lugar de nacimiento: pampania
