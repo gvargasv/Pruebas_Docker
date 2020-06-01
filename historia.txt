@@ -11,3 +11,4 @@ ingreso: 5k
 profesion: Ingeniero
 hobbie: Futbol
 lugar de nacimiento: pampania
+padres: L y J
