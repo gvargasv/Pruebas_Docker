@@ -10,4 +10,4 @@ empresa: TDP
 ingreso: 5k
 profesion: Ingeniero
 hobbie: Futbol
-
+lugar de nacimiento: pampania
