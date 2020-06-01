@@ -1,5 +1,5 @@
-Hola mis datos son:
-Edad: 33 años
+Mis datos personales:
+Edad: 34 años
 Nombre: Grover Vargas Vasquez
 email: fvargas48@gmail.com
 direccion: VES / VR / TINGO MARIA
@@ -10,3 +10,4 @@ empresa: TDP
 ingreso: 5k
 profesion: Ingeniero
 hobbie: Futbol
+
