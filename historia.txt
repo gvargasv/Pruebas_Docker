@@ -9,4 +9,8 @@ grupo:poste48
 empresa: TDP
 ingreso: 5k
 profesion: Ingeniero
+<<<<<<< HEAD
 lugar de nacimiento: pampania
+=======
+hobbie: Futbol
+>>>>>>> 612d3cc934ce506f6438a4ca162e1794168d4416
